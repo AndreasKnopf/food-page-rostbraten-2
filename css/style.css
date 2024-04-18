@@ -8,15 +8,18 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
 }
 
 h2 {
     color: #ff3838;
     background-color: black;
-    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    padding: 20px;
     text-transform: uppercase;
+    border-radius: 20px;
 }
 
 nav {
@@ -36,7 +39,8 @@ nav ul {
 }
 
 nav ul li {
-    padding-left: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
 }
 
 nav ul li a {
